@@ -19,6 +19,8 @@
     git commit -m "message commit"
     ```
 
+    tessss
+
 4. Git Remote 
 
     ```
@@ -43,3 +45,9 @@
     ```
 
 8. apakek
+
+9. Git Push
+    ```
+    git push
+    ```    
+
