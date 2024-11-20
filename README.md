@@ -36,3 +36,8 @@
     ```
     git pull origin <name_branch>
     ```
+
+7. Git Push
+    ```
+    git push
+    ```
