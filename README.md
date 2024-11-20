@@ -31,3 +31,8 @@
     git push origin <name_branch>
     ```
 
+6. Git pull
+
+    ```
+    git pull origin <name_branch>
+    ```
